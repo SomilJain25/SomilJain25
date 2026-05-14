@@ -109,20 +109,4 @@ Machine learning models for forecasting and intelligent insights.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
-</p>
-
----
-
 <h3 align="center">⭐ Turning Ideas into Intelligent Solutions ⭐</h3>
