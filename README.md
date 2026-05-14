@@ -22,15 +22,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank">
+<a href="https://www.linkedin.com/in/somil-jain-614898335/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:yourmail@gmail.com" target="blank">
+<a href="mailto:somiljaintkg1234@gmail.com" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/yourusername" target="blank">
+<a href="https://github.com/SomilJain25" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
@@ -80,7 +80,7 @@
 
 ## 📌 Featured Projects
 
-### 🌾 KrishiDrishti AI
+### 🌾 JaivikDrishti AI
 AI-powered agriculture platform for disease detection and smart farming solutions.
 
 ### 🧠 AI Disease Detection System
@@ -88,24 +88,6 @@ Deep learning-based image classification system using TensorFlow and OpenCV.
 
 ### 📊 Prediction & Analytics Models
 Machine learning models for forecasting and intelligent insights.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" />
-</p>
 
 ---
 
