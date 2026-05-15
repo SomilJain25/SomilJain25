@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somil Jain</h1>
 <h3 align="center">AI & Full Stack Developer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Open+Source+Learner" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
