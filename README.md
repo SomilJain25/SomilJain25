@@ -34,8 +34,11 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=orange" />
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
+
 
 ### 🌐 Frontend
 <p>
