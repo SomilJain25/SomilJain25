@@ -42,7 +42,10 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
 ### ⚙️ Backend
