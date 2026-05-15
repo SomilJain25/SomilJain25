@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Somil Jain</h1>
-<h3 align="center">AI & Full Stack Developer</h3>
-
+<h3 align="center">Aspiring AI & Full Stack Developer</h3>
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on AI-powered applications and modern web platforms  
-- 🌱 Learning advanced Machine Learning and Generative AI  
-- 💻 Passionate about Full Stack Development and scalable systems  
-- 🤖 Interested in Computer Vision, Deep Learning, and APIs  
-- ⚡ Building real-world projects using AI and Web Technologies  
+- 🎓 2nd Year Engineering Student  
+- 💻 Aspiring Developer passionate about AI and Full Stack Development  
+- 🌱 Currently learning Machine Learning, Web Development, and APIs  
+- 🤖 Interested in Computer Vision and real-world AI applications  
+- ⚡ Building projects to improve development and problem-solving skills  
+- 📚 Exploring new technologies and open-source development  
 
 ---
 
@@ -35,12 +35,12 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,java,c" />
+<img src="https://skillicons.dev/icons?i=python,js,java" />
 </p>
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -53,16 +53,22 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Natural Language Processing (NLP)  
 - TensorFlow  
 - Keras  
 - OpenCV  
-- Scikit-Learn  
+- NLTK  
+- spaCy  
 - NumPy  
 - Pandas  
+- Scikit-Learn  
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,PostgreSQL" />
 </p>
 
 ### 🛠️ Tools
