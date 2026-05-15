@@ -49,21 +49,19 @@
 
 ### 🤖 AI / Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Natural Language Processing (NLP)  
-- TensorFlow  
-- Keras  
-- OpenCV  
-- NLTK  
-- spaCy  
-- NumPy  
-- Pandas  
-- Scikit-Learn  
+<img src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+<img src="https://img.shields.io/badge/Keras-0A0A0A?style=for-the-badge&logo=keras&logoColor=red" />
+<img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=green" />
+<img src="https://img.shields.io/badge/NLTK-0A0A0A?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/spaCy-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=blue" />
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=purple" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
+</p> 
 
 ### 🗄️ Database
 <p>
