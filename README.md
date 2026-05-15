@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somil Jain</h1>
 <h3 align="center">Aspiring AI & Full Stack Developer</h3>
----
 
 ## 🚀 About Me
 
