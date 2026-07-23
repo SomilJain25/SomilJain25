@@ -3,7 +3,7 @@
 
 # 🚀 About Me
 
-**🎓 3rd Year Engineering Student  **
+🎓 **3rd Year Engineering Student**
 - 💻 Aspiring Developer passionate about AI and Full Stack Development  
 - 🌱 Currently learning Machine Learning, Web Development, and APIs  
 - 🤖 Interested in Computer Vision and real-world AI applications  
