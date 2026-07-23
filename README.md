@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somil Jain</h1>
 <h3 align="center">Aspiring AI & Full Stack Developer</h3>
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 3rd Year Engineering Student  
+**🎓 3rd Year Engineering Student  **
 - 💻 Aspiring Developer passionate about AI and Full Stack Development  
 - 🌱 Currently learning Machine Learning, Web Development, and APIs  
 - 🤖 Interested in Computer Vision and real-world AI applications  
@@ -14,7 +14,7 @@
 >Exploring AI, Machine Learning, and Full-Stack Development through real-world projects and open-source contributions.
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/somil-jain-614898335/" target="blank">
@@ -92,17 +92,31 @@
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🌾 JaivikDrishti AI
+## 🌾 JaivikDrishti AI
+---
 >AI-powered agriculture platform for disease detection and smart farming solutions.
 
-### 🎙️ FormAssistAgent
+## 🎙️ FormAssistAgent
+---
 >FormAssistAgent is an AI-powered Chrome Extension that allows users to fill online forms using voice commands.
 
-### 🛒 SmartBasket AI
+## 🛒 SmartBasket AI
+---
 >AI-powered smart shopping assistant that compares product prices across multiple stores, predicts future prices, recommends alternatives, and helps users save money
 
 ---
+
+# 🏅 Achievements
+
+🚀 Building Full Stack AI Applications
+
+💻 Active GitHub Learner
+
+🌱 Exploring Open Source
+
+---
+
 
 <h3 align="center">⭐ Turning Ideas into Intelligent Solutions ⭐</h3>
