@@ -118,5 +118,12 @@
 
 ---
 
+## 🏆 Hackathons
+
+- 🚀 Participated in SyntaxXSurvival Hackathon 2026.
+- 💡 Built an AI-powered application.
+- 🤝 Collaborated with a team to develop a working prototype within 36 hours.
+
+---
 
 <h3 align="center">⭐ Turning Ideas into Intelligent Solutions ⭐</h3>
