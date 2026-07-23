@@ -3,13 +3,15 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year Engineering Student  
+🎓 3rd Year Engineering Student  
 - 💻 Aspiring Developer passionate about AI and Full Stack Development  
 - 🌱 Currently learning Machine Learning, Web Development, and APIs  
 - 🤖 Interested in Computer Vision and real-world AI applications  
 - ⚡ Building projects to improve development and problem-solving skills  
 - 📚 Exploring new technologies and open-source development  
 
+🎯 Goal
+>Exploring AI, Machine Learning, and Full-Stack Development through real-world projects and open-source contributions.
 ---
 
 ## 🌐 Connect With Me
@@ -93,13 +95,13 @@
 ## 📌 Featured Projects
 
 ### 🌾 JaivikDrishti AI
-AI-powered agriculture platform for disease detection and smart farming solutions.
+>AI-powered agriculture platform for disease detection and smart farming solutions.
 
-### 🧠 AI Disease Detection System
-Deep learning-based image classification system using TensorFlow and OpenCV.
+### 🎙️ FormAssistAgent
+>FormAssistAgent is an AI-powered Chrome Extension that allows users to fill online forms using voice commands.
 
-### 📊 Prediction & Analytics Models
-Machine learning models for forecasting and intelligent insights.
+### 🛒 SmartBasket AI
+>AI-powered smart shopping assistant that compares product prices across multiple stores, predicts future prices, recommends alternatives, and helps users save money
 
 ---
 
