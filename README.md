@@ -95,15 +95,15 @@
 # 📌 Featured Projects
 
 ## 🌾 JaivikDrishti AI
----
+
 >AI-powered agriculture platform for disease detection and smart farming solutions.
 
 ## 🎙️ FormAssistAgent
----
+
 >FormAssistAgent is an AI-powered Chrome Extension that allows users to fill online forms using voice commands.
 
 ## 🛒 SmartBasket AI
----
+
 >AI-powered smart shopping assistant that compares product prices across multiple stores, predicts future prices, recommends alternatives, and helps users save money
 
 ---
