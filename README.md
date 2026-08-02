@@ -32,6 +32,15 @@
 
 ---
 
+# 💼 Experience
+### 🤖 Full Stack Development Intern – Codveda Technology (Remote) 
+
+- Built Expense Tracker: React.js + Node.js/Express + MongoDB app with category-wise analytics, budget limits, and real-time transaction logging.
+- Built Handlr – Freelance Marketplace: full-stack platform with JWT auth, project listings, freelancer bidding, proposal management, and live status updates.
+- Delivered both projects end-to-end — UI design, REST API development, database schema, and deployment in a professional remote environment.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
