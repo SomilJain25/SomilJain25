@@ -111,7 +111,7 @@
 
 >FormAssistAgent is an AI-powered Chrome Extension that allows users to fill online forms using voice commands.
 
-## Handlr
+## 💼 Handlr
 
 > Freelance Marketplace: full-stack platform with JWT auth, project listings, freelancer bidding, proposal management, and live status updates.
 
