@@ -111,6 +111,11 @@
 
 >FormAssistAgent is an AI-powered Chrome Extension that allows users to fill online forms using voice commands.
 
+## Handlr
+
+> Freelance Marketplace: full-stack platform with JWT auth, project listings, freelancer bidding, proposal management, and live status updates.
+
+
 ## 🛒 SmartBasket AI
 
 >AI-powered smart shopping assistant that compares product prices across multiple stores, predicts future prices, recommends alternatives, and helps users save money
